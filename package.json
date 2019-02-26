@@ -1,5 +1,11 @@
 {
-  "name": "splurty",
+  "name": "package",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "version": ".profile",
+  "description": "need to make heroku work",
+  "main": "yabba dabba doo",
+  "repository": "https://github.com/avneeshsawhney/avneesh.git",
+  "author": "Avneesh Sawhney",
+  "license": "MIT"
 }
